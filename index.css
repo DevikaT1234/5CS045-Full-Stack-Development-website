@@ -21,7 +21,7 @@ body {
 
 .navbar_top {
     list-style-type: none;
-	outline: 2px solid;
+	outline: 2px solid #D8C27A;
     padding: 0px 0px;
 	display: flex;
 	flex-direction: row;
